@@ -15,4 +15,5 @@ or
 ```./bin/standalone.bat```
 
 # Modification
-Linked to postgreSQL.
+Linked to MySQL
+
